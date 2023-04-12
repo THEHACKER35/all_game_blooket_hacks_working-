@@ -4,7 +4,7 @@
 
   how to use
   1. on https://github.com/THEHACKER35/all_game_blooket_hacks_working-/blob/main/.gitignore by the code there is these   2. boxes that overlap click on that then it is coped to your clip bord
-  3. get on the game you are playing
+  3. get on the blooket game you are playing
   4. hit Ctrl+Shift+i
   5. at the top of the bar that shows up hit console (2nd one over)
   6. go to the blue arrow as shone > 
