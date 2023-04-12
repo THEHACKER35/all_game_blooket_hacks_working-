@@ -15,4 +15,4 @@
   extra (read)
   Ctrl+e = hide banner
   Ctrl+x = deleat hack
-  bottom right of banner with moving arrows allows you to move hack arround
+  bottom right of hack with moving arrows allows you to move hack arround
